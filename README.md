@@ -1,6 +1,6 @@
 # Fisica experimental
 
-By : JD / Estiven
+By : Estiven / JD
 
 Trabajos y análisis de datos
 
